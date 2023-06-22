@@ -44,6 +44,8 @@ function App() {
     document.querySelector('.quote').style.color = colors[color];
     document.querySelector('.author').style.transition = 'color 1s';
     document.querySelector('.author').style.color = colors[color];
+    document.querySelector('.dash').style.transition = 'color 1s';
+    document.querySelector('.dash').style.color = colors[color];
   }
 
   return (
