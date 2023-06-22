@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Random_quote/static/css/main.40a47cb3.css",
+    "main.js": "/Random_quote/static/js/main.0cf406e6.js",
+    "static/media/icons8-twitter.svg": "/Random_quote/static/media/icons8-twitter.e6651ae0e063e2bb02335f078583af3c.svg",
+    "index.html": "/Random_quote/index.html",
+    "main.40a47cb3.css.map": "/Random_quote/static/css/main.40a47cb3.css.map",
+    "main.0cf406e6.js.map": "/Random_quote/static/js/main.0cf406e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a47cb3.css",
+    "static/js/main.0cf406e6.js"
+  ]
+}
