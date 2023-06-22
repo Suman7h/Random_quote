@@ -1,3 +1,0 @@
-# Random_quote
-
-
