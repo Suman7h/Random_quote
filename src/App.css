@@ -71,7 +71,7 @@ body{
 
 @media (max-width: 767px) {
   .box {
-    width: 100%;
+    width: auto;
     max-width: 800px;
   }
 
